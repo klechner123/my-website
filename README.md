@@ -4,7 +4,6 @@ Here are some changes
 
 Something else
 
-## Repository Purpose
+Repository Purpose
 
-To cause a conflict. 
-This will conflict
+This file is just a readme file.
